@@ -6,7 +6,7 @@
   "scripts": {
     "start:dev": "nodemon index.js"
   },
-  "author": "",
+  "author": "Luiz Henrique",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.16"
